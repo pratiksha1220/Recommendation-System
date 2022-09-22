@@ -1,0 +1,2 @@
+# Recommendation-System
+Recommender systems predict users' interests and recommend product items that quite likely are interesting for them.Online retailers mainly use them in order to drive sales.The three main types of recommendation engines include collaborative filtering, content-based filtering, and Popularity-based filtering. In this project,  I have implemented a movie recommendation that incorporates content-based filtering and certain amount of popularity-based filtering using the Python libraries NumPy,Pandas,Difflib and sklearn.
